@@ -64,7 +64,7 @@ python main.py --data tmall --lambda1 1e-6 --temp 0.3 --dropout 0
 @inproceedings{caisimple,
   title={Simple Yet Effective Graph Contrastive Learning for Recommendation},
   author={Cai, Xuheng and Huang, Chao and Xia, Lianghao and Ren, Xubin},
-  booktitle={International Conference on Learning Representations},
+  booktitle={The Eleventh International Conference on Learning Representations},
   year={2023}
 }
 ```
